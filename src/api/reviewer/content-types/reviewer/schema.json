@@ -1,0 +1,23 @@
+{
+  "kind": "collectionType",
+  "collectionName": "reviewers",
+  "info": {
+    "singularName": "reviewer",
+    "pluralName": "reviewers",
+    "displayName": "Reviewer"
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "user": {
+      "type": "relation",
+      "relation": "oneToOne",
+      "target": "admin::user"
+    }
+  }
+}
