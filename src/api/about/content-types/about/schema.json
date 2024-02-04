@@ -1,0 +1,106 @@
+{
+  "kind": "singleType",
+  "collectionName": "abouts",
+  "info": {
+    "singularName": "about",
+    "pluralName": "abouts",
+    "displayName": "About",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "description_long": {
+      "type": "richtext"
+    },
+    "externalgm": {
+      "type": "string"
+    },
+    "externalgm_desc": {
+      "type": "text"
+    },
+    "internalgm": {
+      "type": "string"
+    },
+    "internalgm_desc": {
+      "type": "text"
+    },
+    "businessmanager": {
+      "type": "string"
+    },
+    "businessmanager_desc": {
+      "type": "text"
+    },
+    "engineer": {
+      "type": "string"
+    },
+    "engineer_desc": {
+      "type": "text"
+    },
+    "fm": {
+      "type": "string"
+    },
+    "fm_desc": {
+      "type": "text"
+    },
+    "sting": {
+      "type": "string"
+    },
+    "sting_desc": {
+      "type": "text"
+    },
+    "music": {
+      "type": "string"
+    },
+    "music_desc": {
+      "type": "text"
+    },
+    "productions": {
+      "type": "string"
+    },
+    "productions_desc": {
+      "type": "text"
+    },
+    "creative": {
+      "type": "string"
+    },
+    "creative_desc": {
+      "type": "text"
+    },
+    "tv": {
+      "type": "string"
+    },
+    "tv_desc": {
+      "type": "text"
+    },
+    "alumni": {
+      "type": "string"
+    },
+    "alumni_desc": {
+      "type": "text"
+    },
+    "events": {
+      "type": "string"
+    },
+    "events_desc": {
+      "type": "text"
+    },
+    "it": {
+      "type": "string"
+    },
+    "it_desc": {
+      "type": "text"
+    },
+    "podcasting": {
+      "type": "string"
+    },
+    "podcasting_desc": {
+      "type": "text"
+    },
+    "description": {
+      "type": "richtext"
+    }
+  }
+}
